@@ -1,4 +1,4 @@
-ublic class Counter implements  Runnable{
+public class Counter implements  Runnable{
        
       public static void main(String[] args) {
             Storage store = new Storage();
