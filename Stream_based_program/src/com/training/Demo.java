@@ -1,4 +1,4 @@
-package com.training;
+ackage com.training;
 
 class NameNotValidException extends Exception
 {
